@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinonsomartins
 - 👀 I’m interested in Tech, sports,music..
-- 🌱 I’m currently learning Data analysis, Machine learning..
+- 🌱 I’m currently learning Data Science, Machine learning..
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me chinonsomartins86@gmail.com..
 
